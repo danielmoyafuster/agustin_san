@@ -6,7 +6,7 @@ import re
 #  LISTA DE FILÓSOFOS INCLUIDA
 # ────────────────────────────────
 FILOSOFOS = [
-    {"filosofo": "Tales", "nacimiento": -24},
+    {"filosofo": "Tales", "nacimiento": -624},
     {"filosofo": "Anaximandro", "nacimiento": -610},
     {"filosofo": "Anaxímenes", "nacimiento": -590},
     {"filosofo": "Pitágoras", "nacimiento": -570},
